@@ -1,0 +1,1 @@
+Currently there is an enhancement patch for [Blender](http://www.blender.org) cloth simulation. See Downloads page.
